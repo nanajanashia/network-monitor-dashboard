@@ -1,0 +1,12 @@
+# Binary
+network-monitor-dashboard
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+*~
+
+# macOS
+.DS_Store
